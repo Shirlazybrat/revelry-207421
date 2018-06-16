@@ -1,0 +1,25 @@
+{
+  "name": "revelry",
+  "version": "1.0.0",
+  "description": "Event Finder app by the Hacker Snackers",
+  "main": "maincontroller.js",
+  "dependencies": {
+    "connect": "^3.6.6",
+    "serve-static": "^1.13.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shirlazybrat/revelry-207421.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shirlazybrat/revelry-207421/issues"
+  },
+  "homepage": "https://github.com/Shirlazybrat/revelry-207421#readme"
+}
